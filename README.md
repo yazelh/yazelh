@@ -1,16 +1,15 @@
-## Hi there  Yazel Hasanalioğlu👋
+# Hi there, I'm Yazel Hasanalioğlu! 👋
+I am a Computer Programming associate degree student at Kastamonu University. I develop software ranging from desktop applications to web projects, while also advancing my knowledge in system integration, automation, and database management.
 
-<!--
-**yazelh/yazelh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Skills & Technologies
+Programming Languages: C#, Python, PHP
+Web Development: HTML, CSS
+Databases: SQL (MS SQL Server)
+Automation & Integration: API Integration, Selenium Automation
 
-Here are some ideas to get you started:
+### 💼 Experience
+System Integration Intern - Saat Teknoloji (2025)
+Gained practical experience in corporate API integrations, database operations, and web automation using Selenium.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ... 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📬 Contact Me
+Email: yazelhasanalioglu3@gmail.com
